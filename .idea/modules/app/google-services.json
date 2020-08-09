@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624062395024",
+    "firebase_url": "https://wesco-9f676.firebaseio.com",
+    "project_id": "wesco-9f676",
+    "storage_bucket": "wesco-9f676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624062395024:android:50752e334cde4fc7975e15",
+        "android_client_info": {
+          "package_name": "com.solo003.shopmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624062395024-bvvhl5kp5a8i49c04a5bgurkhuhrcasc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solo003.shopmanagement",
+            "certificate_hash": "e0c2682977b066778447f3d47aa2678ee3549452"
+          }
+        },
+        {
+          "client_id": "624062395024-v2ck9vhvuj9dd8k79hsmbatv9lavi2lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0uVHAKBRmjF-wKZcja85pr_E6vVuPr5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624062395024-v2ck9vhvuj9dd8k79hsmbatv9lavi2lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

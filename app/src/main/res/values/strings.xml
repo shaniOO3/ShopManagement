@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shop Management</string>
+    <string name="phone_no">Phone No</string>
+    <string name="log">LOG</string>
+    <string name="in">IN</string>
+    <string name="todo">TODO</string>
+    <string name="login">GENERATE OTP</string>
+    <string name="enter_your_phone_number_to_login">Enter your phone number to generate OTP</string>
+    <string name="enter_your_otp_if_failed_to_detect_automatically">Enter your OTP if failed to detect automatically</string>
+    <string name="otp">OTP</string>
+    <string name="verify">VERIFY</string>
+    <string name="profile">PROFILE</string>
+    <string name="name">Name</string>
+</resources>
